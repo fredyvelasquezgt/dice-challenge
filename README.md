@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Finished project
 
-(rolldice.png)
+![alt text](rolldice.png)
 
 ## Available Scripts
 
